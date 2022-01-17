@@ -1,0 +1,8 @@
+Target = 	Exp_Triangle
+Generation = 	15
+PopSize = 	24
+NumSlide = 	1
+TimeOutTime = 	15000
+StartSpace = 	0	100	-60	60	-10	70
+ColourSpace = 	0	100	-60	60	-10	70
+FitnessValue = 	Camouflage
